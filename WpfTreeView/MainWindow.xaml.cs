@@ -19,6 +19,7 @@ namespace WpfTreeView
         {
             InitializeComponent();
 
+            DataContext = new ViewModelBasics();
         }
 
         #endregion

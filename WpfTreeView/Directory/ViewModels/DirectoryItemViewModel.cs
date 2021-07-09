@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfTreeView.Directory.ViewModels
+namespace WpfTreeView
 {
     public class DirectoryItemViewModel
     {
-        // No code here yet, comming soon
+        
     }
 }
