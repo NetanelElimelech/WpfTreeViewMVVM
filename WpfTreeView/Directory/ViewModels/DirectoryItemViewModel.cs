@@ -8,5 +8,6 @@ namespace WpfTreeView.Directory.ViewModels
 {
     public class DirectoryItemViewModel
     {
+        // No code here yet
     }
 }
